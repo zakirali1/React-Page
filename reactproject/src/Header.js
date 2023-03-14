@@ -15,7 +15,7 @@ function Header() {
     <span className="navbar-toggler-icon"></span>
   </button>
   <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+    <div className="navbar-nav">
         <NavLink 
         to="/Home"
         end
