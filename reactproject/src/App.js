@@ -19,7 +19,7 @@ function App() {
     
         </div>
         <Routes>
-          <Route path="/React-Page" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/Home" element={<Home />} />
           <Route path="/Projects" element={<Projects />} />
           <Route path='/Projects/:id' element={<ProjectDetails />} />
