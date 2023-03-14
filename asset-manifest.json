@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zakirali1/React-Page/static/css/main.b1d0248b.css",
-    "main.js": "/zakirali1/React-Page/static/js/main.6ef7833a.js",
+    "main.js": "/zakirali1/React-Page/static/js/main.51f87dfe.js",
     "static/js/787.1fee1fb8.chunk.js": "/zakirali1/React-Page/static/js/787.1fee1fb8.chunk.js",
     "static/media/movie.png": "/zakirali1/React-Page/static/media/movie.66c122772d076660caf7.png",
     "static/media/wd.png": "/zakirali1/React-Page/static/media/wd.57ee985c51b33fa057ba.png",
@@ -12,11 +12,11 @@
     "static/media/passwordgen.png": "/zakirali1/React-Page/static/media/passwordgen.066eeb41730d6f81fd88.png",
     "index.html": "/zakirali1/React-Page/index.html",
     "main.b1d0248b.css.map": "/zakirali1/React-Page/static/css/main.b1d0248b.css.map",
-    "main.6ef7833a.js.map": "/zakirali1/React-Page/static/js/main.6ef7833a.js.map",
+    "main.51f87dfe.js.map": "/zakirali1/React-Page/static/js/main.51f87dfe.js.map",
     "787.1fee1fb8.chunk.js.map": "/zakirali1/React-Page/static/js/787.1fee1fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d0248b.css",
-    "static/js/main.6ef7833a.js"
+    "static/js/main.51f87dfe.js"
   ]
 }
