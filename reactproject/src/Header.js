@@ -17,7 +17,7 @@ function Header() {
   <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
     <div className="navbar-nav">
         <NavLink 
-        to="/Home"
+        to="/React-Page"
         end
         className={({isActive}) =>
         isActive ? "nav-link active" : "nav-link" 
@@ -26,7 +26,7 @@ function Header() {
         Home
         </NavLink>
         <NavLink 
-        to="projects"
+        to="/projects"
         className={({isActive}) => 
         isActive ? "nav-link active" : "nav-link" 
     }
@@ -34,7 +34,7 @@ function Header() {
         Projects
         </NavLink>
         <NavLink 
-        to="contacts"
+        to="/contacts"
         className={({isActive}) => 
         isActive ? "nav-link active" : "nav-link" 
     }

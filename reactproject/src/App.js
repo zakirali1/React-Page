@@ -13,7 +13,7 @@ function App() {
   
     <div>
 
-      
+      <Router>
         <div>
         <Header />
     
@@ -26,7 +26,7 @@ function App() {
           <Route path='/Contacts' element={<Contacts />} />
           <Route path="*" element={<Navigate to='/' />} />
         </Routes>
-        
+        </Router>
     </div>
     
     
