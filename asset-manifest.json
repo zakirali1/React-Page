@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zakirali1/React-Page/reactproject/static/css/main.b1d0248b.css",
-    "main.js": "/zakirali1/React-Page/reactproject/static/js/main.f12e2ea6.js",
-    "static/js/787.1fee1fb8.chunk.js": "/zakirali1/React-Page/reactproject/static/js/787.1fee1fb8.chunk.js",
-    "static/media/movie.png": "/zakirali1/React-Page/reactproject/static/media/movie.66c122772d076660caf7.png",
-    "static/media/wd.png": "/zakirali1/React-Page/reactproject/static/media/wd.57ee985c51b33fa057ba.png",
-    "static/media/rm.png": "/zakirali1/React-Page/reactproject/static/media/rm.5f3c3e3b1fbb75ba312d.png",
-    "static/media/scheduler.png": "/zakirali1/React-Page/reactproject/static/media/scheduler.1b361c547f43511098e2.png",
-    "static/media/quiz.png": "/zakirali1/React-Page/reactproject/static/media/quiz.132f5c3b5d312baf9cdb.png",
-    "static/media/NewProject1.svg": "/zakirali1/React-Page/reactproject/static/media/NewProject1.40ecd962b8b1d5240757c5225c633ee7.svg",
-    "static/media/passwordgen.png": "/zakirali1/React-Page/reactproject/static/media/passwordgen.066eeb41730d6f81fd88.png",
-    "index.html": "/zakirali1/React-Page/reactproject/index.html",
-    "main.b1d0248b.css.map": "/zakirali1/React-Page/reactproject/static/css/main.b1d0248b.css.map",
-    "main.f12e2ea6.js.map": "/zakirali1/React-Page/reactproject/static/js/main.f12e2ea6.js.map",
-    "787.1fee1fb8.chunk.js.map": "/zakirali1/React-Page/reactproject/static/js/787.1fee1fb8.chunk.js.map"
+    "main.css": "/zakirali1/React-Page/static/css/main.b1d0248b.css",
+    "main.js": "/zakirali1/React-Page/static/js/main.6ef7833a.js",
+    "static/js/787.1fee1fb8.chunk.js": "/zakirali1/React-Page/static/js/787.1fee1fb8.chunk.js",
+    "static/media/movie.png": "/zakirali1/React-Page/static/media/movie.66c122772d076660caf7.png",
+    "static/media/wd.png": "/zakirali1/React-Page/static/media/wd.57ee985c51b33fa057ba.png",
+    "static/media/rm.png": "/zakirali1/React-Page/static/media/rm.5f3c3e3b1fbb75ba312d.png",
+    "static/media/scheduler.png": "/zakirali1/React-Page/static/media/scheduler.1b361c547f43511098e2.png",
+    "static/media/quiz.png": "/zakirali1/React-Page/static/media/quiz.132f5c3b5d312baf9cdb.png",
+    "static/media/NewProject1.svg": "/zakirali1/React-Page/static/media/NewProject1.40ecd962b8b1d5240757c5225c633ee7.svg",
+    "static/media/passwordgen.png": "/zakirali1/React-Page/static/media/passwordgen.066eeb41730d6f81fd88.png",
+    "index.html": "/zakirali1/React-Page/index.html",
+    "main.b1d0248b.css.map": "/zakirali1/React-Page/static/css/main.b1d0248b.css.map",
+    "main.6ef7833a.js.map": "/zakirali1/React-Page/static/js/main.6ef7833a.js.map",
+    "787.1fee1fb8.chunk.js.map": "/zakirali1/React-Page/static/js/787.1fee1fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d0248b.css",
-    "static/js/main.f12e2ea6.js"
+    "static/js/main.6ef7833a.js"
   ]
 }
